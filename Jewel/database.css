@@ -1,0 +1,25 @@
+html {
+	min-width: 1100px;
+	background: gray;
+}
+body {
+
+	border-radius: 20px;
+	font-family: sans-serif;
+	margin: 0 auto;
+	min-width: 1100px;
+	padding: 1em;
+	width: 100%;
+}
+table tr{
+	width: 80%;
+	min-width: 80%;
+}
+table tr th{
+	background-color: white;
+}
+body h1 {
+	text-align: center;
+	color: orange;
+	background-color: black;
+}
